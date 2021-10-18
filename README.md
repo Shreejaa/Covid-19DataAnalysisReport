@@ -47,6 +47,6 @@ Go to browser and enter 'localhost:8050' to see the analysis web page.
 
 # WebApp
 
-![image](doc_images/Covid-part1-1.JPG)
-![image](doc_images/covid-part2-1.JPG)
-![image](doc_images/Covid-19p4-1.JPG)
+![image](doc_images\Covid-part1-1.JPG)
+![image](doc_images\covid-part2-1.JPG)
+![image](doc_images\Covid-19p4-1.JPG)
