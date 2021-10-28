@@ -1,6 +1,8 @@
 dash
 flask
 dash_bootstrap_components
+dash_core_components
+dash_html_components
 pandas
 numpy
 plotly
